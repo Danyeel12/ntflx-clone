@@ -121,6 +121,11 @@ const Auth = () => {
               </span>
               .
             </p>
+
+            {/* Copyright section */}
+            <div className="mt-8 text-center text-neutral-500 text-sm">
+              &copy; 2023 Netflix
+            </div>
           </div>
         </div>
       </div>
